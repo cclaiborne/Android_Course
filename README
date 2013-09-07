@@ -1,0 +1,17 @@
+PRE-COURSE WORK
+
+Step 1: Ensure you have the newest versions of all development applications, SDKs, Android platforms, etc. installed on your computer.  Follow steps in "Android Development Setup Instructions" if necessary.
+Step 2: Create and test an AVD. Make sure it is Android version 2.2 or higher - the applications should work properly on any newer AVD but will not function on any older AVD.
+Step 3: Extract the "TCSRandomPartial.zip" and "TCSRandomComplete.zip" packages and import the two projects into Eclipse with different names.  TCSRandomPartial is the application up to Step 17 of the "Random Number Generator" guide and TCSRandomComplete is the complete application to the end of the document.  Run both to ensure they work properly on your AVD.
+Step 4: Read through the "Random Number Generator" document and ensure you are familiar with everything involved in the programming.
+
+ON-SITE PRE-WORK
+Step 1: Open setup instructions document and (esp. if you have not printed it out) the random generator guide.
+Step 2: Open Eclipse, ensure the two completed projects are open so you can access them quickly if necessary.
+Step 3: Start your AVD to minimize running time during the course.
+Step 4: Connect to the projector/screen and put a blank Eclipse window (no java files or other project files open) on as the only window.
+
+COURSE WALKTHROUGH
+Step 1: Introduce yourself, briefly describe the Random Number Generator project
+Step 2: Show the participants the setup guide and ask if they have completed the steps.  If there is anyone without a computer, or who has not completed the setup, ask them to find a partner to work with.
+Step 3: Close the instructions guide, go to the Eclipse window, and start walking through the steps in the Random Number Generator guide; answer any questions as applicable, but do not jump ahead to answer questions if they will be addressed later.
